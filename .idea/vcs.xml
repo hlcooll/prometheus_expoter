@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/golang/protobuf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/google/go-cmp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/matttproud/golang_protobuf_extensions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/prometheus/common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/prometheus/procfs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/protobuf" vcs="Git" />
+  </component>
+</project>
